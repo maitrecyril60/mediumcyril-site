@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /merci
 Disallow: /merci.html
 
 Sitemap: https://mediumcyril.com/sitemap.xml
